@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="ExamPilot logo">
+  <defs>
+    <linearGradient id="g1" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#g1)"/>
+  <path d="M38 38h52v10H38zm0 18h52v10H38zm0 18h38v10H38z" fill="#ffffff" opacity="0.9"/>
+  <path d="M92 24l12 12-12 12-12-12 12-12zm0 6.5l-5.5 5.5L92 41.5l5.5-5.5z" fill="#67e8f9"/>
+  <path d="M69 76l13-17 12 17H69zm-8 16l18-22h14l-18 22H61z" fill="#ffffff" opacity="0.92"/>
+</svg>
